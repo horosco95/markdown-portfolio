@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Soy una persona **curiosa**, con ganas de descubrir lo desconocido. 
+- *Amante de la tecnología.*
+- ***Lenguajes** que suelo utilizar:* **C, C++, Java, MySQL**
+- ***Autodidacta** en la vida*
+- *Con conocimientos sobre **organizaciones**, **procesos productivos, de gestión y contabilidad***
