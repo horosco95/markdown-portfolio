@@ -1,2 +1,1 @@
-![Imagen de un Yaktocat](https://octodex.github.com/images/yaktocat.png)
-# Un gato particular
+![Imagen de perfil](https://media.giphy.com/media/l0He4fJxPCbfqv7Xi/giphy.gif)
